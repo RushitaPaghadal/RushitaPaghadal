@@ -1,6 +1,5 @@
-
-Folder structure
-src/
+## Folder structure
+#src/
   api/
     api.ts
     interceptors.ts
